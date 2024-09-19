@@ -9,7 +9,7 @@ This API allows users to submit text input in English and receive a simple respo
 ```
 http://localhost:5000
 ```
-### Initialization Commands
+## Initialization Commands
 
 To start the backend server, use the following command: node server.js
 
